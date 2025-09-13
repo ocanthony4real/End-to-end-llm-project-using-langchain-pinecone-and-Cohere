@@ -1,0 +1,7 @@
+langchain-cohere
+langchain-community
+langchain-pinecone
+pinecone
+pypdf
+tiktoken
+python-dotenv
